@@ -1,0 +1,47 @@
+.lemmen{
+	width: 30em;
+	height: auto;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #21610B;
+}
+.Moskus{
+	width: 30em;
+	height: auto;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #21610B;
+}
+.Rein{
+	width: 30em;
+	height: auto;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #21610B;
+}
+h1{
+	color: #21610B;
+	font-size: 75px;
+	font-family: verdana;
+	text-shadow: 10px 10px 0 darkgray;
+	text-align: center;
+}
+.Hoggorm{
+	width: 30em;
+	height: auto;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #21610B;
+}
+.Fjellrev{
+	width: 30em;
+	height: auto;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #21610B;
+}
+p{
+	font-size: 35px;
+	font-family: georgia;
+	text-align: center;
+}

@@ -1,0 +1,14 @@
+h1{
+	color:black;
+	font-size: 30px;
+	font-family: sans-serif;
+  padding: 20px;
+  background-color: yellow;
+  background-image: url(https://mdn.mozillademos.org/files/13026/fire-ball-icon.png);
+  background-position: 99% center;
+  background-repeat: no-repeat;
+}
+p{
+	color:#0B610B;
+	font-size: 23px;
+}
